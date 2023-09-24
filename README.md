@@ -1,6 +1,6 @@
 # WeekDayDecider-EJS
 
-# WeekDayDecider is a simple web application built with Express.js and EJS that helps you determine whether today is a weekday or a weekend and provides you with a piece of advice accordingly.
+## WeekDayDecider is a simple web application built with Express.js and EJS that helps you determine whether today is a weekday or a weekend and provides you with a piece of advice accordingly.
 
 ## Features
 
